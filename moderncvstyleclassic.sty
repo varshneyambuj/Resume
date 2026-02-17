@@ -53,7 +53,7 @@
 \renewcommand*{\titlefont}{\LARGE\mdseries\slshape}
 \renewcommand*{\addressfont}{\small\mdseries\slshape}
 \renewcommand*{\quotefont}{\large\slshape}
-\renewcommand*{\sectionfont}{\Large\mdseries\upshape}
+\renewcommand*{\sectionfont}{\LARGE\bfseries\upshape}
 \renewcommand*{\subsectionfont}{\large\mdseries\upshape}
 \renewcommand*{\hintfont}{}
 
@@ -62,7 +62,7 @@
 \renewcommand*{\titlestyle}[1]{{\titlefont\textcolor{color2}{#1}}}
 \renewcommand*{\addressstyle}[1]{{\addressfont\textcolor{color1}{#1}}}
 \renewcommand*{\quotestyle}[1]{{\quotefont\textcolor{color1}{#1}}}
-\renewcommand*{\sectionstyle}[1]{{\sectionfont\textcolor{color1}{#1}}}
+\renewcommand*{\sectionstyle}[1]{{\sectionfont\textcolor{black}{#1}}}
 \renewcommand*{\subsectionstyle}[1]{{\subsectionfont\textcolor{color1}{#1}}}
 \renewcommand*{\hintstyle}[1]{{\hintfont\textcolor{color0}{#1}}}
 
@@ -161,10 +161,18 @@
   \par\addvspace{2.5ex}%
   \phantomsection{}% reset the anchor for hyperrefs
   \addcontentsline{toc}{section}{#1}%
-  \parbox[t]{\hintscolumnwidth}{\strut\raggedleft\raisebox{\baseletterheight}{\color{color1}\rule{\hintscolumnwidth}{0.95ex}}}%
+  \parbox[t]{\hintscolumnwidth}{\strut}%
   \hspace{\separatorcolumnwidth}%
   \parbox[t]{\maincolumnwidth}{\strut\sectionstyle{#1}}%
-  \par\nobreak\addvspace{1ex}\@afterheading}% to avoid a pagebreak after the heading
+  \par\nobreak\vspace{0.5ex}\noindent\hspace{\hintscolumnwidth}\hspace{\separatorcolumnwidth}\rule{\maincolumnwidth}{1pt}\addvspace{1ex}\@afterheading}% to avoid a pagebreak after the heading
+
+% Left-aligned section (no hints column offset)
+\newcommand*{\sectionleft}[1]{%
+  \par\addvspace{2.5ex}%
+  \phantomsection{}%
+  \addcontentsline{toc}{section}{#1}%
+  {\strut\sectionstyle{#1}}%
+  \par\nobreak\vspace{0.5ex}\noindent\rule{\textwidth}{1pt}\addvspace{1ex}\@afterheading}
 
 \renewcommand*{\subsection}[1]{%
   \par\addvspace{1ex}%

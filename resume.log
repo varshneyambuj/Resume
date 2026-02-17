@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 17:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -543,8 +543,8 @@ LaTeX Font Info:    Trying to load font information for U+mvs on input line 78.
 \baseletterheight=\skip74
 
 
-LaTeX Font Warning: Font shape `T1/lmr/m/ulcup' undefined
-(Font)              using `T1/lmr/m/n' instead on input line 158.
+LaTeX Font Warning: Font shape `T1/lmr/b/ulcup' undefined
+(Font)              using `T1/lmr/b/n' instead on input line 158.
 
 \cvitemwithcommentmainbox=\box101
 \cvitemwithcommentmainlength=\skip75
@@ -828,10 +828,25 @@ LaTeX Font Info:    Font shape `T1/Inter-TLF/m/sl' in size <10> not available
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 44.
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 49.
+(Font)              scaled to size 17.28pt on input line 49.
+LaTeX Font Info:    Font shape `T1/Inter-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 49.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \section{Personal Information}
+                                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
 0.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -880,26 +895,138 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \section{Overview}
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 LaTeX Font Info:    Font shape `T1/Inter-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 64.
- [1
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...tion{Academic Appointments and Experience}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/inter/a_djwlf6.enc}]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 \section{Education}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 101.
- (./sections/grants.tex [2]) (./sections/awards.tex
-[3]
+(./sections/grants.tex [2]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{Research Grants}
+                             
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./sections/awards.tex [3]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{Awards and Honors}
+                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 4.
- [4]
+[4]
 LaTeX Font Info:    Font shape `T1/Inter-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 65.
-) (./sections/phd.tex [5]) (./sections/master.tex [6] [7])
-(./sections/ugurop.tex [8]) (./sections/ug.tex [9]
+) (./sections/phd.tex [5]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...tion{Postdoctoral and Doctoral Supervision}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./sections/master.tex [6]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... Student Supervision (Thesis and Capstone)}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[7]) (./sections/ugurop.tex [8]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...Undergraduate Supervision (UROP, Research)}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./sections/ug.tex [9]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...graduate Supervision (Final Year Projects)}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 10/[][]23[][] 
  []
@@ -910,6 +1037,19 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
  []
 
 [11]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{Academic Service}
+                              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 12/[][]23[][] 
  []
@@ -920,6 +1060,19 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
  []
 
 [13]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{Invited and Conference Talks}
+                                          
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 14/[][]23[][] 
  []
@@ -935,6 +1088,18 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
  []
 
 [16]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \sectionleft{Selected Publications}
+                                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -957,6 +1122,19 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
  []
 
 [18]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...ns in Journals, Conferences, and Workshops}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 19/[][]23[][] 
  []
@@ -967,6 +1145,19 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
  []
 
 [20]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...rs, Demonstrations, and Short Publications}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 21/[][]23[][] 
  []
@@ -1000,23 +1191,23 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 669CEDEA5F758214864E9467188F8ABF;6102.
  ) 
 Here is how much of TeX's memory you used:
- 15886 strings out of 476182
- 260782 string characters out of 5795595
- 1955975 words of memory out of 5000000
- 37146 multiletter control sequences out of 15000+600000
- 690931 words of font info for 276 fonts, out of 8000000 for 9000
+ 15896 strings out of 476182
+ 260965 string characters out of 5795595
+ 1954975 words of memory out of 5000000
+ 37150 multiletter control sequences out of 15000+600000
+ 702688 words of font info for 281 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,13n,83p,1003b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,13n,83p,1003b,671s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/inter/Inter-Italic.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msam10.pfb>
-Output written on resume.pdf (23 pages, 230118 bytes).
+Output written on resume.pdf (23 pages, 230226 bytes).
 PDF statistics:
  400 PDF objects out of 1000 (max. 8388607)
  358 compressed objects within 4 object streams
  127 named destinations out of 1000 (max. 500000)
- 39145 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 41193 words of extra memory for PDF output out of 42996 (max. 10000000)
 
