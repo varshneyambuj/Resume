@@ -9,11 +9,15 @@
 \usepackage{enumitem}
 \usepackage{xcolor}
 \usepackage{amssymb}
-\usepackage[scale=0.80]{geometry}
+\usepackage[scale=0.90]{geometry}
 
 % moderncv configuration
 \moderncvstyle{classic}
 \moderncvcolor{black}
+
+% Add spacing above and below subsection headings globally
+\let\origsubsection\subsection
+\renewcommand{\subsection}[1]{\vspace{1em}\origsubsection{#1}\vspace{0.5em}}
 
 % Author role symbols for publication lists
 \newcommand{\phd}{\textcolor{red}{\textsuperscript{$\blacksquare$}}}
@@ -31,7 +35,7 @@
 }
 
 % Conference short name in dark blue (bold)
-\newcommand{\conf}[1]{\textcolor{confblue}{\textbf{#1}}}
+\newcommand{\conf}[1]{\textcolor{accent}{\textbf{#1}}}
 
 \firstname{Ambuj}
 \familyname{Varshney}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,18 +680,18 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip77
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 40.
-Package hyperref Info: Option `linktocpage' set `true' on input line 40.
-Package hyperref Info: Option `breaklinks' set `true' on input line 40.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 40.
+Package hyperref Info: Option `colorlinks' set `true' on input line 44.
+Package hyperref Info: Option `linktocpage' set `true' on input line 44.
+Package hyperref Info: Option `breaklinks' set `true' on input line 44.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 44.
 LaTeX Font Info:    Trying to load font information for T1+Inter-LF on input li
-ne 40.
+ne 44.
 
 (/usr/share/texlive/texmf-dist/tex/latex/inter/T1Inter-LF.fd
 File: T1Inter-LF.fd 2023/11/24 (autoinst) Font definitions for T1/Inter-LF.
 )
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 40.
+(Font)              scaled to size 10.95pt on input line 44.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
@@ -701,39 +701,39 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 (./resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 44.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 4
-0.
+4.
  (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 LaTeX Font Info:    Trying to load font information for T1+Inter-TLF on input l
-ine 40.
+ine 44.
 
 (/usr/share/texlive/texmf-dist/tex/latex/inter/T1Inter-TLF.fd
 File: T1Inter-TLF.fd 2023/11/24 (autoinst) Font definitions for T1/Inter-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 40.
+(Font)              scaled to size 10.95pt on input line 44.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -757,19 +757,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 40.
-Package microtype Info: Applying patch `item' on input line 40.
-Package microtype Info: Applying patch `toc' on input line 40.
-Package microtype Info: Applying patch `eqnum' on input line 40.
-Package microtype Info: Applying patch `footnote' on input line 40.
-Package microtype Info: Applying patch `verbatim' on input line 40.
+LaTeX Info: Redefining \microtypecontext on input line 44.
+Package microtype Info: Applying patch `item' on input line 44.
+Package microtype Info: Applying patch `toc' on input line 44.
+Package microtype Info: Applying patch `eqnum' on input line 44.
+Package microtype Info: Applying patch `footnote' on input line 44.
+Package microtype Info: Applying patch `verbatim' on input line 44.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 40.
+LaTeX Info: Redefining \showhyphens on input line 44.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -788,15 +788,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(59.74988pt, 478.00812pt, 59.74988pt)
-* v-part:(T,H,B)=(67.60269pt, 676.04005pt, 101.4041pt)
+* h-part:(L,W,R)=(29.87721pt, 537.75343pt, 29.87723pt)
+* v-part:(T,H,B)=(33.80392pt, 760.53699pt, 50.70593pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=478.00812pt
-* \textheight=676.04005pt
-* \oddsidemargin=-12.52011pt
-* \evensidemargin=-12.52011pt
-* \topmargin=-41.6673pt
+* \textwidth=537.75343pt
+* \textheight=760.53699pt
+* \oddsidemargin=-42.39278pt
+* \evensidemargin=-42.39278pt
+* \topmargin=-75.46606pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -814,23 +814,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 40.
+Package hyperref Info: Link coloring ON on input line 44.
 (./resume.out) (./resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
 \pagenumberwidth=\skip78
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 40.
+(Font)              scaled to size 10.0pt on input line 44.
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/sl' in size <10> not available
 (Font)              Font shape `T1/Inter-TLF/m/it' tried instead on input line 
-40.
+44.
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 40.
+(Font)              scaled to size 10.0pt on input line 44.
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 45.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
-6.
+(Font)              scaled to size 14.4pt on input line 49.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
+0.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -838,31 +838,31 @@ File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
-6.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
+0.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-46.
+50.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-46.
+50.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 46.
+(Font)              <10.95> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 46.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+(Font)              <6> on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -871,7 +871,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -884,13 +884,13 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 LaTeX Font Info:    Font shape `T1/Inter-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 60.
+(Font)              scaled to size 10.95pt on input line 64.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/inter/a_djwlf6.enc}]
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 97.
+(Font)              scaled to size 10.95pt on input line 101.
  (./sections/grants.tex [2]) (./sections/awards.tex
 [3]
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
@@ -910,31 +910,11 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
  []
 
 [11]
-Overfull \hbox (29.80234pt too wide) in paragraph at lines 17--18
-[]\T1/Inter-TLF/b/n/10.95 (-20) 2026 [] 
- []
-
-
-Overfull \hbox (29.80234pt too wide) in paragraph at lines 21--22
-[]\T1/Inter-TLF/b/n/10.95 (-20) 2025 [] 
- []
-
-
-Overfull \hbox (29.80234pt too wide) in paragraph at lines 25--26
-[]\T1/Inter-TLF/b/n/10.95 (-20) 2024 [] 
- []
-
-
-Overfull \hbox (62.91814pt too wide) in paragraph at lines 29--30
-[]\T1/Inter-TLF/b/n/10.95 (-20) 2019--2023 [] 
- []
-
-) (./sections/talks.tex
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 12/[][]23[][] 
  []
 
-[12]
+[12]) (./sections/talks.tex
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 13/[][]23[][] 
  []
@@ -944,71 +924,34 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 14/[][]23[][] 
  []
 
-[14]) (./sections/selected.tex
+[14]
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 15/[][]23[][] 
  []
 
-[15]
+[15]) (./sections/selected.tex
+Overfull \hbox (5.89317pt too wide) has occurred while \output is active
+[]|\T1/Inter-TLF/m/it/10 (-20) 16/[][]23[][] 
+ []
+
+[16]
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 4.
 
-Overfull \hbox (24.58102pt too wide) in paragraph at lines 9--12
-[][][]\T1/Inter-TLF/m/it/10.95 (-20) AudioCast: En-abling Ubiq-ui-tous Con-nec-
-tiv-ity for Em-bed-ded Sys-tems through Audio-Broadcasting
+Overfull \hbox (15.86261pt too wide) in paragraph at lines 73--76
+[][][]\T1/Inter-TLF/m/it/10.95 (-20) TunnelScatter: En-abling Low-Power Com-mu-
+ni-ca-tion for Sen-sor Tags Us-ing Tun-nel Diodes[][]\T1/Inter-TLF/m/n/10.95 (-
+20) . $[]$,
  []
 
 
-Overfull \hbox (34.1505pt too wide) in paragraph at lines 45--49
-[]\T1/Inter-TLF/m/it/10.95 (-20) Radio Fre-quency Com-mu-ni-ca-tion De-vice for
- Low-Power Com-mu-ni-ca-tion\T1/Inter-TLF/m/n/10.95 (-20) . In-ven-tor: $[]$
- []
-
-
-Overfull \hbox (5.89317pt too wide) has occurred while \output is active
-[]|\T1/Inter-TLF/m/it/10 (-20) 16/[][]23[][] 
- []
-
-[16{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Overfull \hbox (17.50734pt too wide) in paragraph at lines 67--71
-[][][]\T1/Inter-TLF/m/it/10.95 (-20) Two to Tango: Hy-brid Light and Backscat-t
-er Net-works for Next Bil-lion De-vices[][]\T1/Inter-TLF/m/n/10.95 (-20) . $[]$
-$[]$,
- []
-
-
-Overfull \hbox (20.0478pt too wide) in paragraph at lines 84--87
-[][][]\T1/Inter-TLF/m/it/10.95 (-20) LoRea: A Backscat-ter Ar-chi-tec-ture that
- Achieves a Long Com-mu-ni-ca-tion Range[][]\T1/Inter-TLF/m/n/10.95 (-20) . $[]
-$,
- []
-
-) (./sections/full.tex
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 17/[][]23[][] 
  []
 
-[17]
-Overfull \hbox (32.97195pt too wide) in paragraph at lines 20--23
-[]\T1/Inter-TLF/m/n/10.95 (-20) Kunjun Li[]$[]$[], Manoj Gu-lati[]$[]$[], Dhair
-ya Shah[]$[]$[], Steven Wask-ito[]$[]$[], Shan-tanu Chakrabarty, $[]$.
- []
-
-
-Overfull \hbox (1.75494pt too wide) in paragraph at lines 38--41
-[]\T1/Inter-TLF/m/n/10.95 (-20) Muhammad Sar-mad Mir, Wen-qing Yan[]$[]$[], Pra
--bal Dutta, Domenico Gius-tini-ano, $[]$.
- []
-
-
-Overfull \hbox (7.80193pt too wide) in paragraph at lines 58--61
-[]\T1/Inter-TLF/m/n/10.95 (-20) Revathy Narayanan, $[]$, Panos Pa-padim-i-trato
-s. \T1/Inter-TLF/m/it/10.95 (-20) Se-cur-ing Battery-Free Backscat-
- []
-
-
+[17{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./sections/full.tex
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 18/[][]23[][] 
  []
@@ -1024,33 +967,14 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
  []
 
 [20]
-Overfull \hbox (41.93546pt too wide) in paragraph at lines 34--37
-[]\T1/Inter-TLF/m/n/10.95 (-20) Sara Spand-dhana[]$[]$[], Mo-teen Shah[]$[]$[],
- Dhairya Shah[]$[]$[], Ra-jashekar Reddy Chintha-la-pani, $[]$.
- []
-
-
-Overfull \hbox (2.54053pt too wide) in paragraph at lines 38--41
-[]\T1/Inter-TLF/m/n/10.95 (-20) Pramuka Medaranga[]$[]$[], Dhairya Shah[]$[]$[]
-, Savitha Viswanadh Kan-dala[]$[]$[], $[]$. \T1/Inter-TLF/m/it/10.95 (-20) Post
-er:
- []
-
-
-Overfull \hbox (14.7774pt too wide) in paragraph at lines 42--45
-[]\T1/Inter-TLF/m/n/10.95 (-20) Kunjun Li, Manoj Gu-lati, Dhairya Shah[]$[]$[],
- Steven Wask-ito, Shan-tanu Chakrabarty, $[]$.
- []
-
-
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 21/[][]23[][] 
  []
 
 [21]
-Overfull \hbox (1.31335pt too wide) in paragraph at lines 56--59
-[]\T1/Inter-TLF/m/n/10.95 (-20) Dayrene Frometa Fon-seca, Muham-mad Sar-mad Mir
-, Borja Gen-oves Guz-man, $[]$,
+Overfull \hbox (12.48297pt too wide) in paragraph at lines 68--71
+[]\T1/Inter-TLF/m/n/10.95 (-20) Pramuka Medaranga[]$[]$[], Steven Wask-ito[]$[]
+$[], Kun-jun Li[]$[]$[], Kai Jie Leow[]$[]$[], Shan-tanu Chakrabarty, $[]$.
  []
 
 
@@ -1076,23 +1000,23 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 669CEDEA5F758214864E9467188F8ABF;6102.
  ) 
 Here is how much of TeX's memory you used:
- 15881 strings out of 476182
- 260664 string characters out of 5795595
- 1950975 words of memory out of 5000000
- 37145 multiletter control sequences out of 15000+600000
- 690591 words of font info for 274 fonts, out of 8000000 for 9000
+ 15886 strings out of 476182
+ 260782 string characters out of 5795595
+ 1955975 words of memory out of 5000000
+ 37146 multiletter control sequences out of 15000+600000
+ 690931 words of font info for 276 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,13n,83p,1003b,666s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,13n,83p,1003b,675s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/inter/Inter-Italic.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msam10.pfb>
-Output written on resume.pdf (23 pages, 231251 bytes).
+Output written on resume.pdf (23 pages, 230118 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
- 359 compressed objects within 4 object streams
+ 400 PDF objects out of 1000 (max. 8388607)
+ 358 compressed objects within 4 object streams
  127 named destinations out of 1000 (max. 500000)
  39145 words of extra memory for PDF output out of 42996 (max. 10000000)
 
