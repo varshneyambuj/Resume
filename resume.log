@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -911,7 +911,7 @@ If that doesn't work, type  X <return>  to quit.
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 LaTeX Font Info:    Font shape `T1/Inter-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 61.
+(Font)              scaled to size 10.95pt on input line 62.
 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -920,7 +920,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 \section{Experience}
+l.64 \section{Experience}
                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -936,13 +936,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.94 \section{Education}
+l.95 \section{Education}
                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 99.
 LaTeX Font Info:    Font shape `T1/Inter-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 98.
+(Font)              scaled to size 12.0pt on input line 99.
 (./sections/grants.tex [2]
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -969,11 +971,33 @@ l.2 \section{Awards}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/Inter-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 5.
 [4]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \section{Honors to Mentored Students}
+                                          
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 45.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 45.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 45.
+LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 45.
+LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/Inter-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 65.
+(Font)              scaled to size 8.0pt on input line 73.
 ) (./sections/phd.tex [5]
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -1031,35 +1055,12 @@ Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 10/[][]23[][] 
  []
 
-[10]) (./sections/pc.tex
+[10]) (./sections/talks.tex
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 11/[][]23[][] 
  []
 
 [11]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Service}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (5.89317pt too wide) has occurred while \output is active
-[]|\T1/Inter-TLF/m/it/10 (-20) 12/[][]23[][] 
- []
-
-[12]) (./sections/talks.tex
-Overfull \hbox (5.89317pt too wide) has occurred while \output is active
-[]|\T1/Inter-TLF/m/it/10 (-20) 13/[][]23[][] 
- []
-
-[13]
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -1074,10 +1075,33 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
+[]|\T1/Inter-TLF/m/it/10 (-20) 12/[][]23[][] 
+ []
+
+[12]
+Overfull \hbox (5.89317pt too wide) has occurred while \output is active
+[]|\T1/Inter-TLF/m/it/10 (-20) 13/[][]23[][] 
+ []
+
+[13]) (./sections/pc.tex
+Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 14/[][]23[][] 
  []
 
 [14]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{Service}
+                     
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Overfull \hbox (5.89317pt too wide) has occurred while \output is active
 []|\T1/Inter-TLF/m/it/10 (-20) 15/[][]23[][] 
  []
@@ -1100,10 +1124,6 @@ l.2 \sectionleft{Selected Publications}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Font shape `T1/Inter-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 4.
 
 Overfull \hbox (15.86261pt too wide) in paragraph at lines 73--76
 [][][]\T1/Inter-TLF/m/it/10.95 (-20) TunnelScatter: En-abling Low-Power Com-mu-
@@ -1188,14 +1208,14 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: FFDF3967EAAD3BCD6F28AE0044A68495;5123.
+(rerunfilecheck)             Checksum: CF0226A8B5BA983EE7479ACC7BB9100D;4980.
  ) 
 Here is how much of TeX's memory you used:
- 15895 strings out of 476182
- 260939 string characters out of 5795595
- 1955975 words of memory out of 5000000
- 37150 multiletter control sequences out of 15000+600000
- 702585 words of font info for 280 fonts, out of 8000000 for 9000
+ 15935 strings out of 476182
+ 261722 string characters out of 5795595
+ 1952975 words of memory out of 5000000
+ 37177 multiletter control sequences out of 15000+600000
+ 726552 words of font info for 298 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,13n,83p,1003b,671s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/
@@ -1203,11 +1223,12 @@ share/texlive/texmf-dist/fonts/type1/public/inter/Inter-Italic.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/symbols/msam10.pfb>
-Output written on resume.pdf (23 pages, 229840 bytes).
+fonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/symbols/msam7.pfb>
+Output written on resume.pdf (23 pages, 239533 bytes).
 PDF statistics:
  400 PDF objects out of 1000 (max. 8388607)
- 358 compressed objects within 4 object streams
- 127 named destinations out of 1000 (max. 500000)
- 41193 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 356 compressed objects within 4 object streams
+ 126 named destinations out of 1000 (max. 500000)
+ 48353 words of extra memory for PDF output out of 51595 (max. 10000000)
 
