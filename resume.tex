@@ -1,6 +1,9 @@
 \documentclass[11pt,a4paper,sans]{moderncv}
 \usepackage[utf8]{inputenc}
-\usepackage{inter}
+
+% Toggle font: set to true for Inter, false for Latin Modern (default)
+\newif\ifuseinter\useintertrue  % <-- change to \useinterfalse for old font
+\ifuseinter\usepackage{inter}\fi
 \usepackage[export]{adjustbox}
 \usepackage{multicol}
 \usepackage{enumitem}
