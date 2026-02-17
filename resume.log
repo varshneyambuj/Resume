@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 17:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,8 +920,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 ...tion{Academic Appointments and Experience}
-                                                  
+l.63 \section{Experience}
+                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -951,8 +951,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 \section{Research Grants}
-                             
+l.2 \section{Grants}
+                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -964,8 +964,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 \section{Awards and Honors}
-                               
+l.2 \section{Awards}
+                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -982,8 +982,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 ...tion{Postdoctoral and Doctoral Supervision}
-                                                  
+l.2 \section{Supervision}
+                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -995,8 +995,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 ... Student Supervision (Thesis and Capstone)}
-                                                  
+l.2 \section{Master's Supervision}
+                                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1008,8 +1008,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 ...Undergraduate Supervision (UROP, Research)}
-                                                  
+l.2 \section{Undergraduate Research}
+                                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1021,8 +1021,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 ...graduate Supervision (Final Year Projects)}
-                                                  
+l.2 \section{Undergraduate Projects}
+                                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1044,8 +1044,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 \section{Academic Service}
-                              
+l.2 \section{Service}
+                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1067,8 +1067,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 \section{Invited and Conference Talks}
-                                          
+l.2 \section{Talks}
+                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1188,14 +1188,14 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 669CEDEA5F758214864E9467188F8ABF;6102.
+(rerunfilecheck)             Checksum: FFDF3967EAAD3BCD6F28AE0044A68495;5123.
  ) 
 Here is how much of TeX's memory you used:
- 15896 strings out of 476182
- 260965 string characters out of 5795595
+ 15895 strings out of 476182
+ 260939 string characters out of 5795595
  1955975 words of memory out of 5000000
  37150 multiletter control sequences out of 15000+600000
- 702688 words of font info for 281 fonts, out of 8000000 for 9000
+ 702585 words of font info for 280 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,13n,83p,1003b,671s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/
@@ -1204,7 +1204,7 @@ texlive/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msam10.pfb>
-Output written on resume.pdf (23 pages, 230096 bytes).
+Output written on resume.pdf (23 pages, 229840 bytes).
 PDF statistics:
  400 PDF objects out of 1000 (max. 8388607)
  358 compressed objects within 4 object streams
