@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  17 FEB 2026 11:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -788,15 +788,22 @@ Overfull \hbox (4.49997pt too wide) has occurred while \output is active
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 08C0DB58D94A39D1C19A16C298DE421D;6213.
+
+
+Package rerunfilecheck Warning: File `resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume.out':
+(rerunfilecheck)             Before: E24A9B874BDECB84C6DA95AA8985D84C;6082
+(rerunfilecheck)             After:  669CEDEA5F758214864E9467188F8ABF;6102.
  ) 
 Here is how much of TeX's memory you used:
- 14754 strings out of 476182
- 233954 string characters out of 5795595
+ 14752 strings out of 476182
+ 233930 string characters out of 5795595
  1951975 words of memory out of 5000000
  36165 multiletter control sequences out of 15000+600000
- 618192 words of font info for 169 fonts, out of 8000000 for 9000
+ 618076 words of font info for 168 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,13n,83p,1003b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/ty
@@ -805,7 +812,7 @@ r/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on resume.pdf (22 pages, 189819 bytes).
+Output written on resume.pdf (22 pages, 189719 bytes).
 PDF statistics:
  404 PDF objects out of 1000 (max. 8388607)
  359 compressed objects within 4 object streams
