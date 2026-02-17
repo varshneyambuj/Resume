@@ -1,0 +1,104 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\usepackage[utf8]{inputenc}
+\usepackage[export]{adjustbox}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage[scale=0.80]{geometry}
+
+% moderncv configuration
+\moderncvstyle{classic}
+\moderncvcolor{black}
+
+% Author role symbols for publication lists
+\newcommand{\phd}{\textcolor{red}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\ug}{\textcolor{blue}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\pg}{\textcolor{green}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\postdoc}{\textcolor{magenta}{\textsuperscript{$\bullet$}}}
+
+\definecolor{confblue}{HTML}{0B2E83}
+
+% Clickable title if URL is provided; otherwise prints plain title
+\newcommand{\ptitle}[2]{%
+  \IfStrEq{#1}{}{#2}{\href{#1}{#2}}%
+}
+
+% Conference short name in dark blue (bold)
+\newcommand{\conf}[1]{\textcolor{confblue}{\textbf{#1}}}
+
+\firstname{Ambuj}
+\familyname{Varshney}
+\title{Curriculum Vitae}
+
+\begin{document}
+
+Prof.\ Dr.\ Ambuj Varshney
+\hrulefill
+
+\section{Personal Information}
+\cvitem{Name}{Ambuj Varshney}
+\cvitem{Nationality}{Sweden}
+\cvitem{Permanent Residency}{Overseas Citizen of India}
+\cvitem{Date of Birth}{October 9, 1986}
+\cvitem{Address}{Bruno Liljeforsgatan 56, Uppsala, Sweden}
+\cvitem{Mobile}{+46 72 033 85 74}
+\cvitem{Email}{ambujvarshney@acm.org}
+
+\section{Overview}
+\cvitem{}{I founded the WEISER group, comprising five PhD students and master's and undergraduate students. The research conducted in the group has been published in flagship venues of mobile computing and computer networking, such as MobiSys, Transactions on Networking, IMWUT, RFID, and HotMobile. We have received numerous accolades, including winning the Student Research Competition, the Best Demonstration Award at MobiSys and IPSN, and a Google Research Scholar Award. In addition to conducting academic research, I teach courses in embedded systems and wireless networking.}
+
+\section{Academic Appointments and Experience}
+
+\cvitem{2022--Present}{\textbf{National University of Singapore, Singapore}}
+\cvitem{}{Assistant Professor, Department of Computer Science, School of Computing}
+\cvitem{}{}
+
+\cvitem{2020--2022}{\textbf{University of California, Berkeley, USA}}
+\cvitem{}{Postdoctoral Scholar}
+\cvitem{}{Mentor: Prof.\ Prabal Dutta}
+\cvitem{}{}
+
+\cvitem{2021}{\textbf{Royal Institute of Technology (KTH), Sweden}}
+\cvitem{}{Visiting Researcher (on leave from UC Berkeley)}
+\cvitem{}{}
+
+\cvitem{2018--2020}{\textbf{Uppsala University, Sweden}}
+\cvitem{}{Postdoctoral Scholar}
+\cvitem{}{}
+
+\cvitem{2012}{\textbf{NXP Semiconductors, India}}
+\cvitem{}{Software Engineer, Embedded Wireless Networks / Low-Power Wireless Group}
+\cvitem{}{}
+
+\cvitem{2011--2012}{\textbf{Dhirubhai Ambani Institute of ICT, India}}
+\cvitem{}{Research Engineer, Networked Embedded Systems Lab}
+\cvitem{}{Mentor: Prof.\ Prabhat Ranjan (Ph.D., UC Berkeley, 1986)}
+
+\section{Education}
+
+\cvitem{2012--2018}{\textbf{Ph.D., Computer Science}}
+\cvitem{}{Uppsala University, Sweden}
+\cvitem{}{Dissertation: \textit{Enabling Sustainable Networked Embedded Systems}}
+\cvitem{}{Advisor: Prof.\ Thiemo Voigt (Uppsala University and RI.SE SICS, Sweden)}
+\cvitem{}{Co-advisor: Prof.\ Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS, Sweden)}
+\cvitem{}{Opponent: Prof.\ Prabal Dutta (University of California, Berkeley, USA)}
+\cvitem{}{\textbf{Honors:} Dissertation awarded the ABB Research Award in Honor of Hubertus von Gr\"{u}nberg (2019). Selection rate: approximately 1 in 60. Endowment of 300,000 USD.}
+\cvitem{}{}
+
+\cvitem{2007--2011}{\textbf{B.Tech., Information and Communication Technology}}
+\cvitem{}{Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, India}
+
+\input{sections/grants}
+\input{sections/awards}
+\input{sections/phd}
+\input{sections/master}
+\input{sections/ugurop}
+\input{sections/ug}
+\input{sections/pc}
+\input{sections/talks}
+\input{sections/selected}
+\input{sections/full}
+\input{sections/shortpubs}
+
+\end{document}
