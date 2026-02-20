@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  20 FEB 2026 22:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  20 FEB 2026 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -831,12 +831,12 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 10/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 10/[][]24[][] 
  []
 
 [10]) (./sections/talks.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 11/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 11/[][]24[][] 
  []
 
 [11]
@@ -854,17 +854,17 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 12/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 12/[][]24[][] 
  []
 
 [12]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 13/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 13/[][]24[][] 
  []
 
 [13]) (./sections/pc.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 14/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 14/[][]24[][] 
  []
 
 [14]
@@ -882,7 +882,7 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 15/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 15/[][]24[][] 
  []
 
 [15]) (./sections/trust.tex
@@ -900,12 +900,12 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 16/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 16/[][]24[][] 
  []
 
 [16]) (./sections/selected.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 17/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 17/[][]24[][] 
  []
 
 [17]
@@ -923,12 +923,12 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 18/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 18/[][]24[][] 
  []
 
 [18{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./sections/full.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 19/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 19/[][]24[][] 
  []
 
 [19]
@@ -946,12 +946,12 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 20/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 20/[][]24[][] 
  []
 
 [20]) (./sections/shortpubs.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 21/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 21/[][]24[][] 
  []
 
 [21]
@@ -969,17 +969,17 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 22/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 22/[][]24[][] 
  []
 
 [22]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 23/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 23/[][]24[][] 
  []
 
 [23])
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 24/[][]25[][] 
+[]|\T1/lmss/m/sl/10 (-20) 24/[][]24[][] 
  []
 
 [24] (./resume.aux)
@@ -987,10 +987,6 @@ Overfull \hbox (4.49997pt too wide) has occurred while \output is active
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 67EA3B8FC0D71D6AF981CA6FCEA6AA34;5121.
  ) 
@@ -1010,7 +1006,7 @@ public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr
 ts/type1/public/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/symbols/msam7.pfb>
-Output written on resume.pdf (24 pages, 224158 bytes).
+Output written on resume.pdf (24 pages, 224173 bytes).
 PDF statistics:
  423 PDF objects out of 1000 (max. 8388607)
  372 compressed objects within 4 object streams
