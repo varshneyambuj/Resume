@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  20 FEB 2026 22:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  20 FEB 2026 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -831,12 +831,12 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 10/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 10/[][]25[][] 
  []
 
 [10]) (./sections/talks.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 11/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 11/[][]25[][] 
  []
 
 [11]
@@ -854,17 +854,17 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 12/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 12/[][]25[][] 
  []
 
 [12]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 13/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 13/[][]25[][] 
  []
 
 [13]) (./sections/pc.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 14/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 14/[][]25[][] 
  []
 
 [14]
@@ -882,7 +882,7 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 15/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 15/[][]25[][] 
  []
 
 [15]) (./sections/trust.tex
@@ -900,12 +900,12 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 16/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 16/[][]25[][] 
  []
 
 [16]) (./sections/selected.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 17/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 17/[][]25[][] 
  []
 
 [17]
@@ -916,19 +916,37 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 \sectionleft{Selected Publications}
-                                       
+l.2 \section{Selected Publications}
+                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 18/[][]24[][] 
+Underfull \hbox (badness 2293) in paragraph at lines 75--75
+[]\T1/lmss/m/sl/10.95 (+20) Radio Fre-quency Com-mu-ni-ca-tion De-vice for Low-
+Power Com-mu-ni-ca-tion\T1/lmss/m/n/10.95 (+20) . In-ven-tor:
  []
 
-[18{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./sections/full.tex
+
+Underfull \hbox (badness 1874) in paragraph at lines 90--90
+[][][]\T1/lmss/m/sl/10.95 (+20) Two to Tango: Hy-brid Light and Backscat-ter Ne
+t-works for Next Bil-lion De-vices[][]\T1/lmss/m/n/10.95 (+20) .
+ []
+
+
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 19/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 18/[][]25[][] 
+ []
+
+[18{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Underfull \hbox (badness 2600) in paragraph at lines 112--112
+[][][]\T1/lmss/m/sl/10.95 (+20) LoRea: A Backscat-ter Ar-chi-tec-ture that Achi
+eves a Long Com-mu-ni-ca-tion Range[][]\T1/lmss/m/n/10.95 (+20) .
+ []
+
+) (./sections/full.tex
+Overfull \hbox (4.49997pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10 (-20) 19/[][]25[][] 
  []
 
 [19]
@@ -946,15 +964,20 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 20/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 20/[][]25[][] 
  []
 
-[20]) (./sections/shortpubs.tex
+[20]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 21/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 21/[][]25[][] 
  []
 
-[21]
+[21]) (./sections/shortpubs.tex
+Overfull \hbox (4.49997pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10 (-20) 22/[][]25[][] 
+ []
+
+[22]
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -968,21 +991,27 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 22/[][]24[][] 
+Underfull \hbox (badness 1975) in paragraph at lines 54--54
+[]\T1/lmss/m/n/10.95 (+20) Kunjun Li, Manoj Gu-lati, Dhairya Shah[]$[]$[], Stev
+en Wask-ito, Shan-tanu Chakrabarty,
  []
 
-[22]
+
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 23/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 23/[][]25[][] 
  []
 
-[23])
+[23]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 24/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 24/[][]25[][] 
  []
 
-[24] (./resume.aux)
+[24])
+Overfull \hbox (4.49997pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10 (-20) 25/[][]25[][] 
+ []
+
+[25] (./resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -991,13 +1020,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 67EA3B8FC0D71D6AF981CA6FCEA6AA34;5121.
  ) 
 Here is how much of TeX's memory you used:
- 14837 strings out of 476182
- 235183 string characters out of 5795595
+ 14736 strings out of 476182
+ 234283 string characters out of 5795595
  1951975 words of memory out of 5000000
- 36207 multiletter control sequences out of 15000+600000
- 636946 words of font info for 198 fonts, out of 8000000 for 9000
+ 36203 multiletter control sequences out of 15000+600000
+ 635489 words of font info for 186 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,13n,83p,1003b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,13n,83p,1003b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/
@@ -1006,10 +1035,10 @@ public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr
 ts/type1/public/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/symbols/msam7.pfb>
-Output written on resume.pdf (24 pages, 224164 bytes).
+Output written on resume.pdf (25 pages, 223169 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 372 compressed objects within 4 object streams
- 128 named destinations out of 1000 (max. 500000)
+ 344 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
  39145 words of extra memory for PDF output out of 42996 (max. 10000000)
 
