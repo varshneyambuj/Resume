@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1792085693.86872 "resume_academic.tex" "resume_academic.pdf" "resume_academic" 1792085694.86214 0
+["pdflatex"] 1792085961.02549 "resume_academic.tex" "resume_academic.pdf" "resume_academic" 1792085962.08469 0
   "/etc/texmf/web2c/texmf.cnf" 1771295752.6164 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrb1728.tfm" 1136768653 3584 02866f25e0169a44e95bf6c9ed015ed1 ""
@@ -144,10 +144,10 @@
   "moderncvcolorblack.sty" 1771297316.21506 1003 efcbb6429f0eca5a6fd6ba93a40d23ab ""
   "moderncvcompatibility.sty" 1771265256 3397 6646c8798a6ebba586650d124c645c99 ""
   "moderncvstyleclassic.sty" 1778379257.63374 13358 ef4fb22d925362a3cdcd3e49f7cb5146 ""
-  "resume_academic.aux" 1792085694.7658 3544 859f757984fbf27d4d04667e573b2038 "pdflatex"
-  "resume_academic.out" 1792085694.7658 5361 d0aaba1bb8f8cafa156a9428f0ef0b37 "pdflatex"
+  "resume_academic.aux" 1792085961.97553 3544 859f757984fbf27d4d04667e573b2038 "pdflatex"
+  "resume_academic.out" 1792085961.97653 5361 d0aaba1bb8f8cafa156a9428f0ef0b37 "pdflatex"
   "resume_academic.tex" 1778378973.35906 5655 840ca1edbb2fbe1056b1c0017d29d0ca ""
-  "sections/awards.tex" 1792085018.6148 5506 d9ae920a6eaaa90cb29aed94380c7468 ""
+  "sections/awards.tex" 1792085956.44555 6057 0e133f4b8c279a3fc6f662450d60df10 ""
   "sections/full.tex" 1792085688.13384 10007 460c303d0fc5fcd11811af34aa89f8f8 ""
   "sections/grants.tex" 1771322331.53086 1970 64a282fa2f13a024440aee683ab7e486 ""
   "sections/master.tex" 1771323954.54163 2625 f47e9ca5c0b203745f15f35c9a2255e8 ""

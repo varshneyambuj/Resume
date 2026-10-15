@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  16 OCT 2026 01:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  16 OCT 2026 01:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -687,11 +687,11 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 11.
  [4{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}] [5]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 67.
+(Font)              <10> on input line 77.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 67.
+(Font)              <7> on input line 77.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 67.
+(Font)              <5> on input line 77.
  [6]) (./sections/phd.tex [7])
 (./sections/master.tex [8] [9]) (./sections/ugurop.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
@@ -803,7 +803,7 @@ lic/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on resume.pdf (26 pages, 248220 bytes).
+Output written on resume.pdf (26 pages, 248459 bytes).
 PDF statistics:
  459 PDF objects out of 1000 (max. 8388607)
  401 compressed objects within 5 object streams
