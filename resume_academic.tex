@@ -1,0 +1,125 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\usepackage[utf8]{inputenc}
+
+% Toggle font: set to true for Inter, false for Latin Modern (default)
+\newif\ifuseinter\useinterfalse  % <-- change to \useintertrue for Inter font
+\ifuseinter\usepackage{inter}\fi
+\usepackage[export]{adjustbox}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage[scale=0.90]{geometry}
+
+% moderncv configuration
+\moderncvstyle{classic}
+\moderncvcolor{black}
+
+% Add spacing above and below subsection headings globally
+\let\origsubsection\subsection
+\renewcommand{\subsection}[1]{\vspace{1em}\origsubsection{#1}\vspace{0.5em}}
+
+% Author role symbols for publication lists
+\newcommand{\phd}{\textcolor{red}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\ug}{\textcolor{blue}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\pg}{\textcolor{green}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\postdoc}{\textcolor{magenta}{\textsuperscript{$\bullet$}}}
+
+\definecolor{confblue}{HTML}{0B2E83}
+\definecolor{accent}{HTML}{1A5276}
+\definecolor{highlight}{HTML}{922B21}
+
+% Clickable title if URL is provided; otherwise prints plain title
+\newcommand{\ptitle}[2]{%
+  \IfStrEq{#1}{}{#2}{\href{#1}{#2}}%
+}
+
+% Conference short name in dark blue (bold)
+\newcommand{\conf}[1]{\textcolor{accent}{\textbf{#1}}}
+
+\firstname{Ambuj}
+\familyname{Varshney}
+\title{Curriculum Vitae}
+
+\begin{document}
+
+\section{Personal Information}
+\cvitem{Name}{Ambuj Varshney}
+\cvitem{Nationality}{Sweden}
+\cvitem{Date of Birth}{October 9, 1986}
+\cvitem{Mobile}{+46 72 033 85 74}
+\cvitem{Email}{ambujvarshney@acm.org}
+
+\section{Overview}
+\cvitem{}{I founded the WEISER group at the National University of Singapore.}
+\cvitem{}{\begin{itemize}[leftmargin=*, itemsep=4pt, parsep=0pt, topsep=0pt]
+\item \textcolor{accent}{\textbf{Mentorship:}} Currently advise \textbf{\textcolor{highlight}{six}} PhD students and \textbf{\textcolor{highlight}{three}} master's students. Graduated \textbf{\textcolor{highlight}{one}} PhD student, \textbf{\textcolor{highlight}{two}} postdoctoral researchers, \textbf{\textcolor{highlight}{sixteen}} master's students, and supervised over \textbf{\textcolor{highlight}{twenty}} undergraduate students.
+\item \textcolor{accent}{\textbf{Funding:}} Secured over \textbf{\textcolor{highlight}{1.2 million USD}} across \textbf{\textcolor{highlight}{seven}} grants, including a Google Research Scholar Award and the ABB Research Award (300,000 USD)---the largest endowment by a commercial organization for early-career researchers.
+\item \textcolor{accent}{\textbf{Publications:}} Published in flagship venues such as ACM MobiCom, MobiSys, SenSys, IEEE/ACM Transactions on Networking, and IMWUT. Received a Best Paper Award and multiple Best Demonstration Awards.
+\item \textcolor{accent}{\textbf{Industry Impact:}} International Patent Application (Sole Inventor) cited as foundational prior art by \textbf{\textcolor{highlight}{14+}} patents from Nokia, Vivo Mobile, KAIST, and Oppo. Research featured in press releases by ABB and Google.
+\item \textcolor{accent}{\textbf{Teaching:}} Courses in embedded systems and wireless networking.
+\item \textcolor{accent}{\textbf{Service:}} Served as a reviewer and program committee member for top-tier international conferences in mobile computing, networking, and sensing (ACM MobiCom, SenSys, MobiSys, IEEE INFOCOM, ACM IMC). Organized and chaired sessions at major conferences with hundreds of attendees (ACM EWSN, ACM/IEEE IPSN, IEEE RFID).
+\end{itemize}}
+
+\section{Experience}
+
+\cvitem{2022--Present}{\textbf{National University of Singapore}}
+\cvitem{}{Assistant Professor}
+\cvitem{}{Department of Computer Science}
+\cvitem{}{School of Computing}
+\cvitem{}{}
+
+\cvitem{2020--2022}{\textbf{University of California, Berkeley}}
+\cvitem{}{Postdoctoral Scholar}
+\cvitem{}{Mentor: Prof.\ Prabal Dutta}
+\cvitem{}{}
+
+\cvitem{2021}{\textbf{Royal Institute of Technology (KTH)}}
+\cvitem{}{Visiting Researcher (on leave from UC Berkeley)}
+\cvitem{}{}
+
+\cvitem{2018--2020}{\textbf{Uppsala University}}
+\cvitem{}{Postdoctoral Scholar}
+\cvitem{}{}
+
+\cvitem{2012}{\textbf{NXP Semiconductors}}
+\cvitem{}{Software Engineer}
+\cvitem{}{Embedded Wireless Networks / Low-Power Wireless Group}
+\cvitem{}{}
+
+\cvitem{2011--2012}{\textbf{Dhirubhai Ambani Institute of ICT}}
+\cvitem{}{Research Engineer}
+\cvitem{}{Networked Embedded Systems Lab}
+\cvitem{}{Mentor: Prof.\ Prabhat Ranjan (Ph.D., UC Berkeley, 1986)}
+
+\section{Education}
+
+\cvitem{2012--2018}{\textbf{Ph.D., Computer Science}}
+\cvitem{}{Uppsala University}
+\cvitem{}{Dissertation: \large\textcolor{accent}{\textit{Enabling Sustainable Networked Embedded Systems}}}
+\cvitem{}{\small Advisor: Prof.\ Thiemo Voigt (Uppsala University and RI.SE SICS, Sweden)}
+\cvitem{}{\small Co-advisor: Prof.\ Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS, Sweden)}
+\cvitem{}{\small Opponent: Prof.\ Prabal Dutta (University of California, Berkeley, USA)}
+\vspace{0.5em}
+\cvitem{}{\textcolor{highlight}{\textbf{Dissertation awarded the ABB Research Award in Honor of Hubertus von Gr\"{u}nberg.}}}
+\cvitem{}{\small Selection rate: approximately 1 in 60.}
+\cvitem{}{\small Endowment of 300,000 USD.}
+\cvitem{}{}
+
+\cvitem{2007--2011}{\textbf{B.Tech., Information and Communication Technology}}
+\cvitem{}{Dhirubhai Ambani Institute of Information and Communication Technology}
+
+\input{sections/grants}
+\input{sections/awards}
+\input{sections/phd}
+\input{sections/master}
+\input{sections/ugurop}
+\input{sections/ug}
+\input{sections/talks}
+\input{sections/pc}
+\input{sections/trust}
+\input{sections/selected}
+\input{sections/full}
+\input{sections/shortpubs}
+
+\end{document}

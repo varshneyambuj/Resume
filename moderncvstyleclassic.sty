@@ -164,7 +164,7 @@
   \parbox[t]{\hintscolumnwidth}{\strut}%
   \hspace{\separatorcolumnwidth}%
   \parbox[t]{\maincolumnwidth}{\strut\sectionstyle{#1}}%
-  \par\nobreak\vspace{0.5ex}\noindent\hspace{\hintscolumnwidth}\hspace{\separatorcolumnwidth}\rule{\maincolumnwidth}{1pt}\addvspace{1ex}\@afterheading}% to avoid a pagebreak after the heading
+  \par\nobreak\vspace{0.5ex}\noindent\hspace{\hintscolumnwidth}\hspace{\separatorcolumnwidth}\rule{\maincolumnwidth}{1pt}\par\addvspace{1ex}\@afterheading}% to avoid a pagebreak after the heading
 
 % Left-aligned section (no hints column offset)
 \newcommand*{\sectionleft}[1]{%
@@ -172,7 +172,7 @@
   \phantomsection{}%
   \addcontentsline{toc}{section}{#1}%
   {\strut\sectionstyle{#1}}%
-  \par\nobreak\vspace{0.5ex}\noindent\rule{\textwidth}{1pt}\addvspace{1ex}\@afterheading}
+  \par\nobreak\vspace{0.5ex}\noindent\rule{\textwidth}{1pt}\par\addvspace{1ex}\@afterheading}
 
 \renewcommand*{\subsection}[1]{%
   \par\addvspace{1ex}%

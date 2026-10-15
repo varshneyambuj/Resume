@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  20 FEB 2026 22:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  16 OCT 2026 01:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -621,22 +621,9 @@ Package hyperref Info: Link coloring ON on input line 44.
 \pagenumberwidth=\skip78
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 44.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 \section{Personal Information}
-                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
 7.
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -685,331 +672,141 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.53 \section{Overview}
-                       
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
-)
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.64 \section{Experience}
-                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
 dvips/lm/lm-ec.enc}]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.95 \section{Education}
-                        
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 99.
-(./sections/grants.tex [2]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Grants}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) (./sections/awards.tex [3]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Awards}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+ (./sections/grants.tex [2]) (./sections/awards.tex [3]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 5.
-[4]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \section{Honors to Mentored Students}
-                                          
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 11.
+ [4{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}] [5]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 49.
+(Font)              <10> on input line 67.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 49.
+(Font)              <7> on input line 67.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 49.
-) (./sections/phd.tex [5]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Supervision}
-                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) (./sections/master.tex [6]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Master's Supervision}
-                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[7]) (./sections/ugurop.tex [8]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Undergraduate Research}
-                                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) (./sections/ug.tex [9]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Undergraduate Projects}
-                                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
+(Font)              <5> on input line 67.
+ [6]) (./sections/phd.tex [7])
+(./sections/master.tex [8] [9]) (./sections/ugurop.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 10/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 10/[][]26[][] 
  []
 
-[10]) (./sections/talks.tex
+[10]) (./sections/ug.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 11/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 11/[][]26[][] 
  []
 
 [11]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Talks}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 12/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 12/[][]26[][] 
  []
 
-[12]
+[12]) (./sections/talks.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 13/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 13/[][]26[][] 
  []
 
-[13]) (./sections/pc.tex
+[13]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 14/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 14/[][]26[][] 
  []
 
 [14]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \section{Service}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 15/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 15/[][]26[][] 
  []
 
-[15]) (./sections/trust.tex
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \section{Positions of Trust}
-                                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
+[15]) (./sections/pc.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 16/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 16/[][]26[][] 
  []
 
-[16]) (./sections/selected.tex
+[16]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 17/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 17/[][]26[][] 
  []
 
 [17]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \sectionleft{Selected Publications}
-                                       
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 18/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 18/[][]26[][] 
  []
 
-[18{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./sections/full.tex
+[18]) (./sections/trust.tex) (./sections/selected.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 19/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 19/[][]26[][] 
  []
 
 [19]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...ns in Journals, Conferences, and Workshops}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 20/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 20/[][]26[][] 
  []
 
-[20]) (./sections/shortpubs.tex
+[20{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./sections/full.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 21/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 21/[][]26[][] 
  []
 
 [21]
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...rs, Demonstrations, and Short Publications}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 22/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 22/[][]26[][] 
  []
 
-[22]
+[22]) (./sections/shortpubs.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 23/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 23/[][]26[][] 
  []
 
-[23])
+[23]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 24/[][]24[][] 
+[]|\T1/lmss/m/sl/10 (-20) 24/[][]26[][] 
  []
 
-[24] (./resume.aux)
+[24]
+Overfull \hbox (4.49997pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10 (-20) 25/[][]26[][] 
+ []
+
+[25])
+Overfull \hbox (4.49997pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10 (-20) 26/[][]26[][] 
+ []
+
+[26] (./resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 67EA3B8FC0D71D6AF981CA6FCEA6AA34;5121.
+(rerunfilecheck)             Checksum: D0AABA1BB8F8CAFA156A9428F0EF0B37;5361.
  ) 
 Here is how much of TeX's memory you used:
- 14837 strings out of 476182
- 235183 string characters out of 5795595
- 1951975 words of memory out of 5000000
- 36207 multiletter control sequences out of 15000+600000
- 636946 words of font info for 198 fonts, out of 8000000 for 9000
+ 14860 strings out of 476182
+ 235430 string characters out of 5795595
+ 1950975 words of memory out of 5000000
+ 36211 multiletter control sequences out of 15000+600000
+ 640257 words of font info for 203 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,13n,83p,1003b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/ty
-pe1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></us
-r/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr
-/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/symbols/msam7.pfb>
-Output written on resume.pdf (24 pages, 224173 bytes).
+</usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/
+share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on resume.pdf (26 pages, 248220 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 372 compressed objects within 4 object streams
- 128 named destinations out of 1000 (max. 500000)
- 39145 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 459 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
+ 137 named destinations out of 1000 (max. 500000)
+ 41201 words of extra memory for PDF output out of 42996 (max. 10000000)
 
