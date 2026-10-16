@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  16 OCT 2026 01:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  16 OCT 2026 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -785,14 +785,14 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `resume_academic.out' has not changed.
-(rerunfilecheck)             Checksum: D0AABA1BB8F8CAFA156A9428F0EF0B37;5361.
+(rerunfilecheck)             Checksum: AE5E40217CF217BF05AD78E96B590D93;5366.
  ) 
 Here is how much of TeX's memory you used:
- 14860 strings out of 476182
- 235601 string characters out of 5795595
- 1950975 words of memory out of 5000000
+ 14856 strings out of 476182
+ 235551 string characters out of 5795595
+ 1951975 words of memory out of 5000000
  36211 multiletter control sequences out of 15000+600000
- 640257 words of font info for 203 fonts, out of 8000000 for 9000
+ 640020 words of font info for 201 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,13n,83p,1012b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/ty
@@ -804,7 +804,7 @@ lic/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on resume_academic.pdf (26 pages, 248459 bytes).
+Output written on resume_academic.pdf (26 pages, 248688 bytes).
 PDF statistics:
  459 PDF objects out of 1000 (max. 8388607)
  401 compressed objects within 5 object streams
