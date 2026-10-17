@@ -19,15 +19,18 @@
 \let\origsubsection\subsection
 \renewcommand{\subsection}[1]{\vspace{1em}\origsubsection{#1}\vspace{0.5em}}
 
-% Author role symbols for publication lists
-\newcommand{\phd}{\textcolor{red}{\textsuperscript{$\blacksquare$}}}
-\newcommand{\ug}{\textcolor{blue}{\textsuperscript{$\blacksquare$}}}
-\newcommand{\pg}{\textcolor{green}{\textsuperscript{$\blacksquare$}}}
-\newcommand{\postdoc}{\textcolor{magenta}{\textsuperscript{$\bullet$}}}
+% Restrained colour palette
+\definecolor{accent}{HTML}{1A5276}     % navy -- labels and structural accents
+\definecolor{highlight}{HTML}{0B3954}  % deep navy -- emphasised figures and keywords
+\definecolor{alert}{HTML}{A93226}      % muted red -- notes
+\definecolor{success}{HTML}{1E6B45}    % muted green -- markers
+\definecolor{plum}{HTML}{7D3C98}       % muted purple -- markers and annotations
 
-\definecolor{confblue}{HTML}{0B2E83}
-\definecolor{accent}{HTML}{1A5276}
-\definecolor{highlight}{HTML}{922B21}
+% Author role symbols for publication lists
+\newcommand{\phd}{\textcolor{alert}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\ug}{\textcolor{accent}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\pg}{\textcolor{success}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\postdoc}{\textcolor{plum}{\textsuperscript{$\bullet$}}}
 
 % Clickable title if URL is provided; otherwise prints plain title
 \newcommand{\ptitle}[2]{%
@@ -42,6 +45,12 @@
 \title{Curriculum Vitae}
 
 \begin{document}
+
+% Compact name header
+{\fontsize{20}{24}\selectfont\bfseries Ambuj Varshney}\par
+\vspace{0.35em}
+{\large\color{accent} Assistant Professor, National University of Singapore}\par
+\vspace{1.6em}
 
 \section{Personal Information}
 \cvitem{Name}{Ambuj Varshney}
@@ -96,7 +105,7 @@
 
 \cvitem{2012--2018}{\textbf{Ph.D., Computer Science}}
 \cvitem{}{Uppsala University}
-\cvitem{}{Dissertation: \large\textcolor{accent}{\textit{Enabling Sustainable Networked Embedded Systems}}}
+\cvitem{}{Dissertation: \textcolor{accent}{\textit{Enabling Sustainable Networked Embedded Systems}}}
 \cvitem{}{\small Advisor: Prof.\ Thiemo Voigt (Uppsala University and RI.SE SICS, Sweden)}
 \cvitem{}{\small Co-advisor: Prof.\ Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS, Sweden)}
 \cvitem{}{\small Opponent: Prof.\ Prabal Dutta (University of California, Berkeley, USA)}
