@@ -1,0 +1,194 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\usepackage[utf8]{inputenc}
+
+% Helvetica-style sans-serif (classic faculty CV look)
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Protect proper nouns from awkward hyphenation
+\hyphenation{Gandhinagar PixelGen}
+
+\usepackage[export]{adjustbox}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage[scale=0.90]{geometry}
+
+% moderncv configuration
+\moderncvstyle{classic}
+\moderncvcolor{black}
+
+%-------------------------------------------------------------------------------
+% v2 layout: flat, rule-free headings; entries with dates flush right
+%-------------------------------------------------------------------------------
+
+% Full-width text (no left hint column)
+\setlength{\hintscolumnwidth}{0pt}
+\setlength{\separatorcolumnwidth}{0pt}
+
+% Section headings: large bold, no rule
+\makeatletter
+\renewcommand{\section}[1]{%
+  \par\addvspace{4ex}%
+  \phantomsection\addcontentsline{toc}{section}{#1}%
+  \noindent{\sectionfont #1\par}%
+  \nobreak\vspace{0.2ex}%
+  \@afterheading}
+\renewcommand{\sectionleft}[1]{\section{#1}}
+
+% Entries: content on the left, date flush right
+\newlength{\cvdatewidth}
+\setlength{\cvdatewidth}{3.05cm}
+\renewcommand*{\cvitem}[3][.3em]{%
+  \if\relax\detokenize{#2}\relax
+    \noindent{#3}\par
+  \else
+    \noindent
+    \begin{tabular}{@{}p{\dimexpr\linewidth-\cvdatewidth-1.2em\relax}@{\hspace{1.2em}}p{\cvdatewidth}@{}}
+      \raggedright #3 & \raggedleft\bfseries\hintstyle{#2}%
+    \end{tabular}\par
+  \fi
+  \addvspace{#1}}
+\makeatother
+
+% Spacing around subsection headings
+\let\origsubsection\subsection
+\renewcommand{\subsection}[1]{\vspace{1em}\origsubsection{#1}\vspace{0.5em}}
+
+% Subsection headings: bold black group labels
+\renewcommand*{\subsectionfont}{\large\bfseries\upshape}
+\renewcommand*{\subsectionstyle}[1]{{\subsectionfont\textcolor{black}{#1}}}
+
+% Numbered publication lists: airy spacing, bracketed numbers
+\setlist[enumerate]{itemsep=0.8em, topsep=0.4em, label={[\arabic*]}}
+
+% Filled bullets in the overview
+\renewcommand{\labelitemi}{\textbullet}
+
+% Monochrome text: structural accents and emphasis render black
+\definecolor{accent}{HTML}{000000}
+\definecolor{highlight}{HTML}{000000}
+\definecolor{alert}{HTML}{000000}
+\definecolor{success}{HTML}{000000}
+\definecolor{plum}{HTML}{000000}
+
+% Marker colours for the publication symbols (the only colour in the document)
+\definecolor{markphd}{HTML}{A93226}
+\definecolor{markug}{HTML}{1A5276}
+\definecolor{markpg}{HTML}{1E6B45}
+\definecolor{markpostdoc}{HTML}{7D3C98}
+
+% Author role symbols for publication lists
+\newcommand{\phd}{\textcolor{markphd}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\ug}{\textcolor{markug}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\pg}{\textcolor{markpg}{\textsuperscript{$\blacksquare$}}}
+\newcommand{\postdoc}{\textcolor{markpostdoc}{\textsuperscript{$\bullet$}}}
+
+% Conference short name (monochrome)
+\newcommand{\conf}[1]{\textcolor{accent}{\textbf{#1}}}
+
+% Links in navy blue, as in a classic CV
+\definecolor{linkcolor}{HTML}{1A5276}
+\AtBeginDocument{\hypersetup{colorlinks=true, urlcolor=linkcolor, linkcolor=black, citecolor=black}}
+
+\firstname{Ambuj}
+\familyname{Varshney}
+\title{Curriculum Vitae}
+
+\begin{document}
+
+% Ragged-right body text (as in a classic faculty CV)
+\raggedright
+
+% Name header with contact block on the right
+\noindent
+\begin{minipage}[t]{0.59\linewidth}
+  {\namefont Ambuj Varshney}\\[0.55em]
+  {\large Assistant Professor of Computer Science\\[0.15em]
+   National University of Singapore}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.37\linewidth}
+  \raggedleft\small
+  Department of Computer Science\\
+  National University of Singapore\\
+  13 Computing Drive\\
+  Singapore 117417\\[0.6em]
+  \href{mailto:ambujvarshney@acm.org}{ambujvarshney@acm.org}\\
+  \href{https://ambuj.se}{ambuj.se}
+\end{minipage}
+\par\vspace{0.4em}
+
+\section{Overview}
+
+\noindent I founded the WEISER group at the National University of Singapore.
+
+\begin{itemize}[leftmargin=1.4em, itemsep=4pt, parsep=0pt, topsep=4pt]
+\item \textbf{Mentorship:} Currently advise \textbf{six} PhD students and \textbf{three} master's students. Graduated \textbf{one} PhD student and \textbf{sixteen} master's students, mentored \textbf{two} postdoctoral researchers, and supervised over \textbf{twenty} undergraduate students.
+\item \textbf{Funding:} Secured over \textbf{1.2 million USD} across \textbf{seven} grants, including a Google Research Scholar Award and the ABB Research Award (300,000 USD)---the largest endowment by a commercial organisation for early-career researchers.
+\item \textbf{Publications:} Published in flagship venues such as ACM MobiCom, MobiSys, SenSys, IEEE/ACM Transactions on Networking, and IMWUT. Received a Best Paper Award and multiple Best Demonstration Awards.
+\item \textbf{Industry Impact:} International Patent Application (Sole Inventor) cited as foundational prior art by \textbf{14+} patents from Nokia, Vivo Mobile, KAIST, and Oppo. Research featured in press releases by ABB and Google.
+\item \textbf{Teaching:} Courses in embedded systems and wireless networking.
+\item \textbf{Service:} Served as a reviewer and program committee member for top-tier international conferences in mobile computing, networking, and sensing (ACM MobiCom, SenSys, MobiSys, IEEE INFOCOM, ACM IMC). Organised and chaired sessions at major conferences with hundreds of attendees (ACM EWSN, ACM/IEEE IPSN, IEEE RFID).
+\end{itemize}
+
+\section{Education}
+
+\cvitem{2012--2018}{\textbf{Uppsala University, Uppsala, Sweden}}
+\cvitem{}{Ph.D., Computer Science}
+\cvitem{}{Dissertation: \emph{Enabling Sustainable Networked Embedded Systems}}
+\cvitem{}{\small Advisor: Prof.\ Thiemo Voigt (Uppsala University and RI.SE SICS, Sweden)}
+\cvitem{}{\small Co-advisor: Prof.\ Luca Mottola (Politecnico di Milano, Italy and RI.SE SICS, Sweden)}
+\cvitem{}{\small Opponent: Prof.\ Prabal Dutta (University of California, Berkeley, USA)}
+\cvitem{}{\textbf{Dissertation awarded the ABB Research Award in Honor of Hubertus von Gr\"{u}nberg.}}
+\cvitem{}{\small Selection rate: approximately 1 in 60. Endowment of 300,000 USD.}
+\cvitem{}{}
+
+\cvitem{2007--2011}{\textbf{Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, India}}
+\cvitem{}{B.Tech., Information and Communication Technology}
+
+\section{Appointments}
+
+\cvitem{2022--Present}{\textbf{National University of Singapore}}
+\cvitem{}{\emph{Assistant Professor}}
+\cvitem{}{Department of Computer Science}
+\cvitem{}{School of Computing}
+\cvitem{}{}
+
+\cvitem{2020--2022}{\textbf{University of California, Berkeley, CA, USA}}
+\cvitem{}{\emph{Postdoctoral Scholar}}
+\cvitem{}{Mentor: Prof.\ Prabal Dutta}
+\cvitem{}{}
+
+\cvitem{2021}{\textbf{Royal Institute of Technology (KTH), Stockholm, Sweden}}
+\cvitem{}{\emph{Visiting Researcher (on leave from UC Berkeley)}}
+\cvitem{}{}
+
+\cvitem{2018--2020}{\textbf{Uppsala University, Uppsala, Sweden}}
+\cvitem{}{\emph{Postdoctoral Scholar}}
+\cvitem{}{}
+
+\cvitem{2012}{\textbf{NXP Semiconductors}}
+\cvitem{}{\emph{Software Engineer}}
+\cvitem{}{Embedded Wireless Networks / Low-Power Wireless Group}
+\cvitem{}{}
+
+\cvitem{2011--2012}{\textbf{Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar, India}}
+\cvitem{}{\emph{Research Engineer}}
+\cvitem{}{Networked Embedded Systems Lab}
+\cvitem{}{Mentor: Prof.\ Prabhat Ranjan (Ph.D., UC Berkeley, 1986)}
+
+\input{sections/awards}
+\input{sections/grants}
+\input{sections/selected}
+\input{sections/full}
+\input{sections/shortpubs}
+\input{sections/talks}
+\input{sections/phd}
+\input{sections/master}
+\input{sections/ugurop}
+\input{sections/ug}
+\input{sections/pc}
+\input{sections/trust}
+
+\end{document}
