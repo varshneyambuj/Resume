@@ -41,15 +41,19 @@
 \newlength{\cvdatewidth}
 \setlength{\cvdatewidth}{3.05cm}
 \renewcommand*{\cvitem}[3][.3em]{%
-  \if\relax\detokenize{#2}\relax
-    \noindent{#3}\par
+  \if\relax\detokenize{#3}\relax
+    \par\addvspace{1em}%
   \else
-    \noindent
-    \begin{tabular}{@{}p{\dimexpr\linewidth-\cvdatewidth-1.2em\relax}@{\hspace{1.2em}}p{\cvdatewidth}@{}}
-      \raggedright #3 & \raggedleft\bfseries\hintstyle{#2}%
-    \end{tabular}\par
-  \fi
-  \addvspace{#1}}
+    \if\relax\detokenize{#2}\relax
+      \noindent{#3}\par
+    \else
+      \noindent
+      \begin{tabular}{@{}p{\dimexpr\linewidth-\cvdatewidth-1.2em\relax}@{\hspace{1.2em}}p{\cvdatewidth}@{}}
+        \raggedright #3 & \raggedleft\bfseries\hintstyle{#2}%
+      \end{tabular}\par
+    \fi
+    \addvspace{#1}%
+  \fi}
 \makeatother
 
 % Spacing around subsection headings
