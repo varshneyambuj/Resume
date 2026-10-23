@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  22 OCT 2026 20:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  23 OCT 2026 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -697,72 +697,77 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 (./sections/master.tex [7]) (./sections/ugurop.tex) (./sections/ug.tex [8]
 [9]) (./sections/talks.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 10/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 10/[][]21[][] 
  []
 
 [10]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 11/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 11/[][]21[][] 
  []
 
 [11]) (./sections/pc.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 12/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 12/[][]21[][] 
  []
 
 [12]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 13/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 13/[][]21[][] 
  []
 
-[13]) (./sections/trust.tex
+[13]) (./sections/coverage.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 14/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 14/[][]21[][] 
  []
 
-[14]) (./sections/selected.tex
+[14]) (./sections/trust.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 15/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 15/[][]21[][] 
  []
 
-[15{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./sections/full.tex
+[15]) (./sections/selected.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 16/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 16/[][]21[][] 
  []
 
-[16]
+[16{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./sections/full.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 17/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 17/[][]21[][] 
  []
 
-[17]) (./sections/shortpubs.tex
+[17]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 18/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 18/[][]21[][] 
  []
 
-[18]
+[18]) (./sections/shortpubs.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 19/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 19/[][]21[][] 
  []
 
-[19])
+[19]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10 (-20) 20/[][]20[][] 
+[]|\T1/lmss/m/sl/10 (-20) 20/[][]21[][] 
  []
 
-[20] (./resume.aux)
+[20])
+Overfull \hbox (4.49997pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10 (-20) 21/[][]21[][] 
+ []
+
+[21] (./resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: AE5E40217CF217BF05AD78E96B590D93;5366.
+(rerunfilecheck)             Checksum: DCFDFE99AE717D89A406D0386A79A471;6148.
  ) 
 Here is how much of TeX's memory you used:
- 14864 strings out of 476182
- 235527 string characters out of 5795595
+ 14881 strings out of 476182
+ 235829 string characters out of 5795595
  1950975 words of memory out of 5000000
- 36217 multiletter control sequences out of 15000+600000
+ 36226 multiletter control sequences out of 15000+600000
  646019 words of font info for 207 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,13n,83p,1003b,633s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -775,10 +780,10 @@ lic/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on resume.pdf (20 pages, 246521 bytes).
+Output written on resume.pdf (21 pages, 250820 bytes).
 PDF statistics:
- 426 PDF objects out of 1000 (max. 8388607)
- 375 compressed objects within 4 object streams
- 131 named destinations out of 1000 (max. 500000)
- 45297 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 467 PDF objects out of 1000 (max. 8388607)
+ 414 compressed objects within 5 object streams
+ 136 named destinations out of 1000 (max. 500000)
+ 45329 words of extra memory for PDF output out of 51595 (max. 10000000)
 

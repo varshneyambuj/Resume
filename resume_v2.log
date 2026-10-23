@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  19 OCT 2026 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  23 OCT 2026 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -698,79 +698,84 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 10.
  [2{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 75.
+(Font)              <10> on input line 76.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 75.
+(Font)              <7> on input line 76.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 75.
+(Font)              <5> on input line 76.
  [3]) (./sections/grants.tex [4]) (./sections/selected.tex
 [5{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) (./sections/full.tex
-[6] [7]) (./sections/shortpubs.tex [8] [9]
+[6] [7] [8]) (./sections/shortpubs.tex [9]
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 10/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 10/[][]20[][] 
  []
 
 [10]) (./sections/talks.tex
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 11/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 11/[][]20[][] 
  []
 
 [11]
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 12/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 12/[][]20[][] 
  []
 
 [12]) (./sections/phd.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 47.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 48.
 ) (./sections/master.tex
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 13/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 13/[][]20[][] 
  []
 
 [13]
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 14/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 14/[][]20[][] 
  []
 
 [14]) (./sections/ugurop.tex) (./sections/ug.tex
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 15/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 15/[][]20[][] 
  []
 
 [15]) (./sections/pc.tex
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 16/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 16/[][]20[][] 
  []
 
 [16]
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 17/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 17/[][]20[][] 
  []
 
-[17]
+[17]) (./sections/coverage.tex
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 18/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 18/[][]20[][] 
  []
 
-[18]) (./sections/trust.tex)
+[18]) (./sections/trust.tex
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
-[]|\T1/phv/m/sl/10 (-20) 19/[][]19[][] 
+[]|\T1/phv/m/sl/10 (-20) 19/[][]20[][] 
  []
 
-[19] (./resume_v2.aux)
+[19])
+Overfull \hbox (5.05951pt too wide) has occurred while \output is active
+[]|\T1/phv/m/sl/10 (-20) 20/[][]20[][] 
+ []
+
+[20] (./resume_v2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `resume_v2.out' has not changed.
-(rerunfilecheck)             Checksum: 38A02F877D338B582A3EC24571105339;5231.
+(rerunfilecheck)             Checksum: 81B06E90CC303446A4719CBA16A24A28;6013.
  ) 
 Here is how much of TeX's memory you used:
- 14903 strings out of 476182
- 234861 string characters out of 5795595
- 1940975 words of memory out of 5000000
- 36237 multiletter control sequences out of 15000+600000
+ 14922 strings out of 476182
+ 235190 string characters out of 5795595
+ 1941975 words of memory out of 5000000
+ 36248 multiletter control sequences out of 15000+600000
  639935 words of font info for 244 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  77i,13n,83p,1006b,657s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -780,10 +785,10 @@ nts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/symbols/msam7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uh
 vb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on resume_v2.pdf (19 pages, 117431 bytes).
+Output written on resume_v2.pdf (20 pages, 121096 bytes).
 PDF statistics:
- 396 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
- 129 named destinations out of 1000 (max. 500000)
- 73961 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 437 PDF objects out of 1000 (max. 8388607)
+ 396 compressed objects within 4 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 73993 words of extra memory for PDF output out of 74296 (max. 10000000)
 

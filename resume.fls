@@ -314,6 +314,11 @@ INPUT ./sections/pc.tex
 INPUT ./sections/pc.tex
 INPUT ./sections/pc.tex
 INPUT sections/pc.tex
+INPUT ./sections/coverage.tex
+INPUT ./sections/coverage.tex
+INPUT ./sections/coverage.tex
+INPUT ./sections/coverage.tex
+INPUT sections/coverage.tex
 INPUT ./sections/trust.tex
 INPUT ./sections/trust.tex
 INPUT ./sections/trust.tex
