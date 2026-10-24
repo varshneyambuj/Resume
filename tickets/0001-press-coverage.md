@@ -24,18 +24,18 @@ section to the CV.
 
 ## Resolution
 
-Added `sections/coverage.tex`, grouped by period, with 13 verified items:
+Added `sections/coverage.tex` with 13 verified items in a single
+reverse-chronological list (2026 to 2019), covering the Uppsala, Berkeley and
+NUS periods:
 
-- **Uppsala Period (2012–2020):** ABB Group press release (12 Nov 2019);
-  Uppsala University News (13 Nov 2019); UU Innovation Attractive Innovation
-  Project Awards 2019 (archived release).
-- **Berkeley Period (2020–2022):** IMDEA Networks release (28 Oct 2021);
-  TechXplore (28 Oct 2021); Optics.org (17 Nov 2021); Hackster.io (26 Nov 2021);
-  Stacey on IoT (7 Dec 2021).
-- **NUS Period (2022–present):** NUS Computing feature "Making IoT devices that
-  are everlasting" (9 Mar 2023); Best Demonstration Award byte (18 Jun 2023);
-  2024 Google Research Scholar Award byte (7 Jun 2024); AudioCast feature
-  (21 Aug 2025); 2026 Google Research Award byte (5 Jun 2026).
+- NUS Computing: 2026 Google Research Award (5 Jun 2026); AudioCast feature
+  (21 Aug 2025); 2024 Google Research Scholar Award (7 Jun 2024); MobiSys Best
+  Demonstration Award (18 Jun 2023); "Making IoT devices that are everlasting"
+  (9 Mar 2023).
+- Stacey on IoT (7 Dec 2021); Hackster.io (26 Nov 2021); Optics.org
+  (17 Nov 2021); IMDEA Networks (28 Oct 2021); TechXplore (28 Oct 2021).
+- UU Innovation Attractive Innovation Project Awards 2019 (archived);
+  Uppsala University News (13 Nov 2019); ABB Group press release (12 Nov 2019).
 
 Section included in `resume.tex`, `resume_academic.tex`, `resume_v2.tex`,
 `resume_v3.tex` and `resume_v4.tex`, between Service and Positions of Trust.

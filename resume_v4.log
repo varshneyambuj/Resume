@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  23 OCT 2026 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  24 OCT 2026 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -746,12 +746,12 @@ Overfull \hbox (5.05951pt too wide) has occurred while \output is active
 []|\T1/phv/m/sl/10 (-20) 18/[][]20[][] 
  []
 
-[18]) (./sections/coverage.tex
+[18]) (./sections/coverage.tex) (./sections/trust.tex
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
 []|\T1/phv/m/sl/10 (-20) 19/[][]20[][] 
  []
 
-[19]) (./sections/trust.tex)
+[19])
 Overfull \hbox (5.05951pt too wide) has occurred while \output is active
 []|\T1/phv/m/sl/10 (-20) 20/[][]20[][] 
  []
@@ -762,13 +762,13 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `resume_v4.out' has not changed.
-(rerunfilecheck)             Checksum: 81B06E90CC303446A4719CBA16A24A28;6013.
+(rerunfilecheck)             Checksum: E26BDEA06DCEFE7F987D8C364AEDEB51;5410.
  ) 
 Here is how much of TeX's memory you used:
- 14866 strings out of 476182
- 234394 string characters out of 5795595
+ 14860 strings out of 476182
+ 234322 string characters out of 5795595
  1940975 words of memory out of 5000000
- 36214 multiletter control sequences out of 15000+600000
+ 36211 multiletter control sequences out of 15000+600000
  625719 words of font info for 222 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  77i,13n,83p,1006b,663s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -776,10 +776,10 @@ Here is how much of TeX's memory you used:
 dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
 vetic/uhvro8a.pfb>
-Output written on resume_v4.pdf (20 pages, 97971 bytes).
+Output written on resume_v4.pdf (20 pages, 97854 bytes).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
- 386 compressed objects within 4 object streams
- 134 named destinations out of 1000 (max. 500000)
- 65801 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 408 PDF objects out of 1000 (max. 8388607)
+ 373 compressed objects within 4 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 65777 words of extra memory for PDF output out of 74296 (max. 10000000)
 

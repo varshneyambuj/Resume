@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  23 OCT 2026 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  24 OCT 2026 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -721,12 +721,12 @@ Overfull \hbox (4.49997pt too wide) has occurred while \output is active
 []|\T1/lmss/m/sl/10 (-20) 14/[][]21[][] 
  []
 
-[14]) (./sections/trust.tex
+[14]) (./sections/trust.tex) (./sections/selected.tex
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
 []|\T1/lmss/m/sl/10 (-20) 15/[][]21[][] 
  []
 
-[15]) (./sections/selected.tex
+[15]
 Overfull \hbox (4.49997pt too wide) has occurred while \output is active
 []|\T1/lmss/m/sl/10 (-20) 16/[][]21[][] 
  []
@@ -762,16 +762,16 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `resume_academic.out' has not changed.
-(rerunfilecheck)             Checksum: DCFDFE99AE717D89A406D0386A79A471;6148.
+(rerunfilecheck)             Checksum: 4144A83FF13D0ED1412DCF460FE2C07D;5545.
  ) 
 Here is how much of TeX's memory you used:
- 14881 strings out of 476182
- 236000 string characters out of 5795595
+ 14875 strings out of 476182
+ 235928 string characters out of 5795595
  1950975 words of memory out of 5000000
- 36226 multiletter control sequences out of 15000+600000
+ 36223 multiletter control sequences out of 15000+600000
  646019 words of font info for 207 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,13n,83p,1012b,633s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,13n,83p,1012b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/pu
@@ -781,10 +781,10 @@ lic/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on resume_academic.pdf (21 pages, 250820 bytes).
+Output written on resume_academic.pdf (21 pages, 250182 bytes).
 PDF statistics:
- 467 PDF objects out of 1000 (max. 8388607)
- 414 compressed objects within 5 object streams
- 136 named destinations out of 1000 (max. 500000)
- 45329 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 455 PDF objects out of 1000 (max. 8388607)
+ 402 compressed objects within 5 object streams
+ 133 named destinations out of 1000 (max. 500000)
+ 45305 words of extra memory for PDF output out of 51595 (max. 10000000)
 

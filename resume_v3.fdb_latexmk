@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1792732511.70999 "resume_v3.tex" "resume_v3.pdf" "resume_v3" 1792732512.69882 0
+["pdflatex"] 1792813045.25483 "resume_v3.tex" "resume_v3.pdf" "resume_v3" 1792813047.593 0
   "/etc/texmf/web2c/texmf.cnf" 1771295752.6164 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -141,11 +141,11 @@
   "moderncvcolorblack.sty" 1771297316.21506 1003 efcbb6429f0eca5a6fd6ba93a40d23ab ""
   "moderncvcompatibility.sty" 1771265256 3397 6646c8798a6ebba586650d124c645c99 ""
   "moderncvstyleclassic.sty" 1778379257.63374 13358 ef4fb22d925362a3cdcd3e49f7cb5146 ""
-  "resume_v3.aux" 1792732512.62114 3906 d8d005c8f0bf62e1f2664dc33ebcf7bc "pdflatex"
-  "resume_v3.out" 1792732512.62114 6013 81b06e90cc303446a4719cba16a24a28 "pdflatex"
+  "resume_v3.aux" 1792813047.43329 3561 0653ef89c630ff38e89465f1ee6af778 "pdflatex"
+  "resume_v3.out" 1792813047.43429 5410 e26bdea06dcefe7f987d8c364aedeb51 "pdflatex"
   "resume_v3.tex" 1792732393.33428 8607 437ff6fb831144ac249c27345f4c0605 ""
   "sections/awards.tex" 1792670996.59895 6450 178b0a0a5ddeee4a4f7afed9df8e0997 ""
-  "sections/coverage.tex" 1792732498.38416 3933 6be8b4881f455faef4f3ceb916805eda ""
+  "sections/coverage.tex" 1792813007.84801 3835 0262e01c00b00ddbc8b00d54a786c56f ""
   "sections/full.tex" 1792430718.67974 10050 e81f021273e04e08035ad9622c712a1f ""
   "sections/grants.tex" 1792670996.59911 1961 0ec006b65a77e05b1449c2296f342b4d ""
   "sections/master.tex" 1792433401.78946 2582 f17098b0eb0371e2ab113013ab86ad53 ""
