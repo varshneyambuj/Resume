@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1793193425.28989 "resume_v2.tex" "resume_v2.pdf" "resume_v2" 1793193426.28368 0
+["pdflatex"] 1793193616.27834 "resume_v2.tex" "resume_v2.pdf" "resume_v2" 1793193617.27566 0
   "/etc/texmf/web2c/texmf.cnf" 1771295752.6164 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -141,9 +141,9 @@
   "moderncvcolorblack.sty" 1771297316.21506 1003 efcbb6429f0eca5a6fd6ba93a40d23ab ""
   "moderncvcompatibility.sty" 1771265256 3397 6646c8798a6ebba586650d124c645c99 ""
   "moderncvstyleclassic.sty" 1778379257.63374 13358 ef4fb22d925362a3cdcd3e49f7cb5146 ""
-  "resume_v2.aux" 1793193426.2081 3561 0653ef89c630ff38e89465f1ee6af778 "pdflatex"
-  "resume_v2.out" 1793193426.2091 5410 e26bdea06dcefe7f987d8c364aedeb51 "pdflatex"
-  "resume_v2.tex" 1792732393.33428 7755 2f06263cfcb2853a884d94f149a6e87e ""
+  "resume_v2.aux" 1793193617.19378 3561 0653ef89c630ff38e89465f1ee6af778 "pdflatex"
+  "resume_v2.out" 1793193617.19378 5410 e26bdea06dcefe7f987d8c364aedeb51 "pdflatex"
+  "resume_v2.tex" 1793193613.71335 7836 f3a724f88cf01b9f812c8e2addac8df5 ""
   "sections/awards.tex" 1792670996.59895 6450 178b0a0a5ddeee4a4f7afed9df8e0997 ""
   "sections/coverage.tex" 1793193258.657 3883 addc4ae4102a77c6429ca9f819e8defe ""
   "sections/full.tex" 1792430718.67974 10050 e81f021273e04e08035ad9622c712a1f ""

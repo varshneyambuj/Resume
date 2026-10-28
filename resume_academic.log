@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  28 OCT 2026 21:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.17)  28 OCT 2026 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,7 +781,7 @@ lic/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on resume_academic.pdf (21 pages, 249813 bytes).
+Output written on resume_academic.pdf (21 pages, 249856 bytes).
 PDF statistics:
  456 PDF objects out of 1000 (max. 8388607)
  403 compressed objects within 5 object streams
